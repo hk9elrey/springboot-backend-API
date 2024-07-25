@@ -1,0 +1,1 @@
+This project is a RESTful API having all HTTP mehtods built with JAVA Spring Boot, integrated with MYSQL. It incorporates a service layer to abstract and manage interactions with the database, ensuring secure and efficient data operations
